@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 B.Tech CSE Student | Government Engineering College Raipur
+💡 Passionate about coding and exploring the intersection of technology and problem-solving.
+🌌 Physics enthusiast with a love for learning and creating impactful projects.
+📚 Currently sharpening my skills in frontend development, DSA, and LeetCode challenges.
+🚀 Aspiring to grow through internships and meaningful contributions to open-source.
 
-<!--
-**Gaurav-Soni24/Gaurav-Soni24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently working on:
 
-Here are some ideas to get you started:
+Quizify-backend: A quiz management platform with anti-cheating features.
+React projects like map components with AQI integration using Leaflet.
+⚡ Fun fact: I manage my life with essentials, chasing dreams on a budget, and finding joy in the journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let’s connect and create something amazing together!
