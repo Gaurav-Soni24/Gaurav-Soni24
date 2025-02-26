@@ -4,10 +4,6 @@
 📚 Currently sharpening my skills in frontend development, DSA, and LeetCode challenges.
 🚀 Aspiring to grow through internships and meaningful contributions to open-source.
 
-🌱 Currently working on:
-
-Quizify-backend: A quiz management platform with anti-cheating features.
-React projects like map components with AQI integration using Leaflet.
 ⚡ Fun fact: I manage my life with essentials, chasing dreams on a budget, and finding joy in the journey.
 
 📬 Let’s connect and create something amazing together!
