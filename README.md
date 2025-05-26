@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/GauravSoniDev/GauravSoniDev/blob/main/banner.png)
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 ## Yo! I'm Gaurav Soni 🤘
 
