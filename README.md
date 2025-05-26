@@ -25,18 +25,23 @@ class WhoAmI {
     buildDopeProjects();
   }
 }
+```
 
- ## 🚀 Github Stats
+## 🚀 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Soni24&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Soni24&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Soni24&layout=compact&theme=github_dark"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Soni24&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Soni24&theme=blueberry_duo&hide_border=true" height="180"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Soni24&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</div>
 
 ## 👨‍💻 Programming Languages
 
 <p>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -49,6 +54,7 @@ class WhoAmI {
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28.svg?logo=firebase&logoColor=black"></a>
@@ -101,7 +107,10 @@ class WhoAmI {
   <a href="https://t.me/gauravsoni24"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 </p>
 
+---
 
-------
-[Gaurav Soni](https://github.com/Gaurav-Soni24)
-Last Edited on - 26/05/2025
+<div align="center">
+  <strong>Thanks for visiting! 😊</strong><br>
+  <a href="https://github.com/Gaurav-Soni24">Gaurav Soni</a><br>
+  <em>Last Edited on - 26/05/2025</em>
+</div>
